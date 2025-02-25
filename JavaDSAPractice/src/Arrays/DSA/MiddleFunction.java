@@ -1,4 +1,4 @@
-package Arrays.Project;
+package Arrays.DSA;
 
 public class MiddleFunction {
     public static int[] middle(int[] array) {
